@@ -3,7 +3,8 @@ package vehiculo;
 import java.util.Objects;
 
 /**
- *
+ * Clase para el POJO vehículo
+ * 
  * @author Gabriel Cubillos Rodríguez
  */
 public class Vehiculo {
